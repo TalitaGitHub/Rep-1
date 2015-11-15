@@ -30,7 +30,7 @@ sobre os serviços que o usuário utiliza e como os usa, por exemplo, quando assis
 website que usa nossos serviços de publicidade ou quando vê e interage com nossos anúncios e nosso conteúdo.
 Essas informações incluem:
 Informações do dispositivo
-Coletamos informações específicas de dispositivos (por exemplo, modelo de hardware, versão do sistema
+Coletamos informações específicas de dispositivos (por exemplo, modelo de hardware, versão do SOFTWARE
 operacional, identificadores exclusivos de produtos e informações de rede móvel, inclusive número de telefone).
 A Google pode associar identificadores de dispositivo ou número de telefone à Conta do Google do
 usuário.
@@ -42,7 +42,7 @@ informações de registro de telefonia, como o número de seu telefone, número de q
 de encaminhamentos, horário e data de chamadas, duração das chamadas, informações de
 identificador de SMS e tipos de chamadas.
 Endereço de protocolo de Internet (IP)
-informações de evento de dispositivo como problemas, atividade de sistema, configurações de
+informações de evento de dispositivo como problemas, atividade de SOFTWARE, configurações de
 hardware, tipo de navegador, idioma do navegador, data e horário de sua solicitação e URL de
 referência.
 cookies que podem identificar exclusivamente seu navegador ou sua Conta do Google.
@@ -53,7 +53,7 @@ IP, GPS e outros sensores que podem, por exemplo, fornecer à Google informações 
 pontos de acesso Wi­Fi e torres de celular próximos.
 Números de aplicativo exclusivos
 Determinados serviços incluem um número de aplicativo exclusivo. Este número e as informações sobre sua
-instalação (por exemplo, o tipo de sistema operacional e o número da versão do aplicativo) devem ser enviados
+instalação (por exemplo, o tipo de SOFTWARE operacional e o número da versão do aplicativo) devem ser enviados
 à Google quando o usuário instalar ou desinstalar esse serviço ou quando esse serviço entrar em contato
 periodicamente com nosso servidores, como para atualizações automáticas.
 Armazenamento local
@@ -97,7 +97,7 @@ serviços é o Google Analytics. Por exemplo, quando o usuário salva suas preferên
 no idioma que o usuário escolhe. Quando exibimos anúncios personalizados, não associamos um identificador proveniente de
 cookies ou tecnologias semelhantes a categorias sensíveis, como aquelas baseadas em raça, religião, orientação sexual ou
 saúde.
-Nossos sistemas automatizados analisam o conteúdo do usuário (incluindo e­mails) para fornecer recursos de produtos
+Nossos SOFTWAREs automatizados analisam o conteúdo do usuário (incluindo e­mails) para fornecer recursos de produtos
 relevantes ao usuário, como, por exemplo, resultados de pesquisa e propaganda personalizados e detecção de spam e
 malware.
 Podemos combinar informações pessoais de um serviço com informações, inclusive informações pessoais, de outros
@@ -136,13 +136,13 @@ informações estiverem erradas, nos empenhamos em prover maneiras rápidas de atua
 temos de mantê­las para fins comerciais legítimos ou jurídicos. Ao atualizar suas informações pessoais, podemos solicitar o
 usuário que confirme sua identidade antes de atendermos a solicitação.
 Podemos recusar as solicitações que sejam repetitivas, que requeiram esforço técnico desproporcional (por exemplo,
-desenvolvimento de um novo sistema ou mudança fundamental de uma prática existente), coloquem em risco a privacidade de
-outros ou que sejam extremamente impraticáveis (por exemplo, solicitações referentes a informações localizadas em sistemas
+desenvolvimento de um novo SOFTWARE ou mudança fundamental de uma prática existente), coloquem em risco a privacidade de
+outros ou que sejam extremamente impraticáveis (por exemplo, solicitações referentes a informações localizadas em SOFTWAREs
 de backup).
 Nos casos em que pudermos fornecer acesso e correção de informações, faremos isso gratuitamente, exceto quando isso
 exigir esforço desproporcional. Nosso objetivo é manter nossos serviços de modo a proteger informações de destruição
 acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias
-residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
+residuais de nossos servidores ativos e pode não ser possível remover informações de nossos SOFTWAREs de backup.
 Informações que compartilhamos
 Não compartilhamos informações pessoais com empresas, organizações e indivíduos externos à Google, salvo em uma das
 seguintes circunstâncias:
@@ -189,7 +189,7 @@ Criptografamos muitos de nossos serviços usando SSL.
 Oferecemos ao usuário uma verificação em duas etapas quando acessa sua Conta do Google e um Recurso de
 Navegação segura no Google Chrome.
 Analisamos nossa coleta de informações, práticas de armazenamento e processamento, inclusive medidas de
-segurança física, para proteção contra acesso não autorizado aos sistemas.
+segurança física, para proteção contra acesso não autorizado aos SOFTWAREs.
 Restringimos o acesso a informações pessoais por parte de empregados, contratados e representantes da Google que
 necessitam saber essas informações para processá­las para nós, e que estão sujeitos a rigorosas obrigações
 contratuais de confidencialidade, podendo ser processados ou dispensados se deixarem de cumprir tais obrigações.
@@ -302,7 +302,7 @@ outros websites, por exemplo quando um anunciante deseja usar os dados do Google
 mais relevantes ou para analisar melhor seu tráfego.
 Saiba mais.
 "manter"
-Por exemplo, monitoramos continuamente nossos sistemas para verificar se eles estão funcionando como o esperado e para
+Por exemplo, monitoramos continuamente nossos SOFTWAREs para verificar se eles estão funcionando como o esperado e para
 detectar e corrigir erros.
 Saiba mais.
 "coletar e processar informações sobre sua localização real"

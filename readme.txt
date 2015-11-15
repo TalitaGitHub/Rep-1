@@ -3,7 +3,7 @@ Política de Privacidade
 final deste documento.
 Existem muitas maneiras diferentes pelas quais o usuário pode usar nossos serviços – pesquisar e compartilhar informações,
 comunicar­se com outras pessoas ou criar novo conteúdo. Quando o usuário compartilha informações conosco, por exemplo,
-criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar­lhe resultados de pesquisa e
+criando uma Conta do sistema, podemos tornar esses serviços ainda melhores – mostrar­lhe resultados de pesquisa e
 anúncios mais relevantes, ajudá­lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais
 rápido e fácil. Quando o usuário usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas
 informações e ao modo como o usuário pode proteger sua privacidade.
@@ -12,8 +12,8 @@ Quais informações coletamos e por que as coletamos.
 Como usamos essas informações.
 As opções que oferecemos, incluindo o modo de acessar e atualizar informações.
 Tentamos manter tudo o mais simples possível, mas se você não estiver familiarizado com termos como cookies, endereços
-de IP, pixel tags e navegadores então leia sobre esses termos­chave primeiro. Sua privacidade é importante para o Google,
-portanto, sendo você um usuário novo ou antigo do Google, por favor reserve um tempo para conhecer nossas práticas. E, se
+de IP, pixel tags e navegadores então leia sobre esses termos­chave primeiro. Sua privacidade é importante para o sistema,
+portanto, sendo você um usuário novo ou antigo do sistema, por favor reserve um tempo para conhecer nossas práticas. E, se
 você tiver alguma dúvida, entre em contato conosco.
 Informações que coletamos
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, desde descobrir coisas básicas, como o
@@ -21,10 +21,10 @@ idioma que eles falam, até coisas mais complexas, como anúncios que o usuário po
 on­line que são mais importantes para o usuário ou os vídeos do YouTube dos quais o usuário poderá gostar.
 Coletamos informações das seguintes maneiras:
 Informações que o usuário nos transmite. Por exemplo, muitos de nossos serviços exigem que o usuário se
-inscreva em uma Conta do Google. Quando o usuário abre essa conta, pedimos informações pessoais, como nome,
+inscreva em uma Conta do sistema. Quando o usuário abre essa conta, pedimos informações pessoais, como nome,
 endereço de e­mail, número de telefone ou cartão de crédito para armazenar com a conta. Se o usuário quiser
 aproveitar ao máximo os recursos de compartilhamento que oferecemos, podemos também pedir a ele que crie um
-Perfil do Google visível publicamente, que pode incluir nome e foto.
+Perfil do sistema visível publicamente, que pode incluir nome e foto.
 Informações que coletamos a partir do uso que o usuário faz dos nossos serviços. Coletamos informações
 sobre os serviços que o usuário utiliza e como os usa, por exemplo, quando assiste a um vídeo no YouTube, visita um
 website que usa nossos serviços de publicidade ou quando vê e interage com nossos anúncios e nosso conteúdo.
@@ -32,10 +32,10 @@ Essas informações incluem:
 Informações do dispositivo
 Coletamos informações específicas de dispositivos (por exemplo, modelo de hardware, versão do sistema
 operacional, identificadores exclusivos de produtos e informações de rede móvel, inclusive número de telefone).
-A Google pode associar identificadores de dispositivo ou número de telefone à Conta do Google do
+A sistema pode associar identificadores de dispositivo ou número de telefone à Conta do sistema do
 usuário.
 Informações de registro
-Quando o usuário utiliza nossos serviços ou vê conteúdo fornecido pela Google, nós coletamos e
+Quando o usuário utiliza nossos serviços ou vê conteúdo fornecido pela sistema, nós coletamos e
 armazenamos automaticamente algumas informações em registros do servidor. Isso inclui:
 detalhes de como o usuário utilizou nosso serviço, como suas consultas de pesquisa.
 informações de registro de telefonia, como o número de seu telefone, número de quem chama, números
@@ -45,16 +45,16 @@ Endereço de protocolo de Internet (IP)
 informações de evento de dispositivo como problemas, atividade de sistema, configurações de
 hardware, tipo de navegador, idioma do navegador, data e horário de sua solicitação e URL de
 referência.
-cookies que podem identificar exclusivamente seu navegador ou sua Conta do Google.
+cookies que podem identificar exclusivamente seu navegador ou sua Conta do sistema.
 Informações do local
-Quando o usuário utiliza os serviços da Google, podemos coletar e processar informações sobre a
+Quando o usuário utiliza os serviços da sistema, podemos coletar e processar informações sobre a
 localização real dele. Além disso, usamos várias tecnologias para determinar a localização, como endereço
-IP, GPS e outros sensores que podem, por exemplo, fornecer à Google informações sobre dispositivos,
+IP, GPS e outros sensores que podem, por exemplo, fornecer à sistema informações sobre dispositivos,
 pontos de acesso Wi­Fi e torres de celular próximos.
 Números de aplicativo exclusivos
 Determinados serviços incluem um número de aplicativo exclusivo. Este número e as informações sobre sua
 instalação (por exemplo, o tipo de sistema operacional e o número da versão do aplicativo) devem ser enviados
-à Google quando o usuário instalar ou desinstalar esse serviço ou quando esse serviço entrar em contato
+à sistema quando o usuário instalar ou desinstalar esse serviço ou quando esse serviço entrar em contato
 periodicamente com nosso servidores, como para atualizações automáticas.
 Armazenamento local
 Podemos coletar e armazenar informações (inclusive informações pessoais) localmente em seu dispositivo
@@ -62,38 +62,38 @@ usando mecanismos como armazenamento no navegador da web (inclusive HTML 5) e ca
 aplicativo.
 Cookies e tecnologias semelhantes
 Nós, juntamente com nossos parceiros, usamos várias tecnologias para coletar e armazenar informações
-quando o usuário visita um serviço da Google. Tais informações podem incluir o uso de cookies ou tecnologias
+quando o usuário visita um serviço da sistema. Tais informações podem incluir o uso de cookies ou tecnologias
 semelhantes para identificação do navegador ou dispositivo do usuário. Também usamos essas tecnologias
 para coletar e armazenar informações quando o usuário interage com serviços que oferecemos a nossos
-parceiros, como serviços de publicidade ou recursos da Google que possam aparecer em outros sites. Nosso
-produto Google Analytics ajuda empresas e proprietários de sites a analisar o tráfego nos respectivos websites
-e apps. Quando as informações do Google Analytics são usadas com nossos serviços de publicidade, como os
+parceiros, como serviços de publicidade ou recursos da sistema que possam aparecer em outros sites. Nosso
+produto sistema Analytics ajuda empresas e proprietários de sites a analisar o tráfego nos respectivos websites
+e apps. Quando as informações do sistema Analytics são usadas com nossos serviços de publicidade, como os
 que usam o cookie DoubleClick, elas são vinculadas a informações sobre visitas a diversos sites, pelo
-cliente do Google Analytics ou pela Google, por meio da tecnologia da Google.
-As informações que coletamos quando o usuário está conectado à Google, além das informações do usuário que recebemos
-dos nossos parceiros, podem estar associadas à Conta do Google dele. Quando as informações estão associadas à Conta do
-Google do usuário, nós as tratamos como informações pessoais. Para ver mais informações sobre como o usuário pode
-acessar, gerenciar ou excluir informações que estejam associadas à Conta do Google dele, visite a seção Transparência e
+cliente do sistema Analytics ou pela sistema, por meio da tecnologia da sistema.
+As informações que coletamos quando o usuário está conectado à sistema, além das informações do usuário que recebemos
+dos nossos parceiros, podem estar associadas à Conta do sistema dele. Quando as informações estão associadas à Conta do
+sistema do usuário, nós as tratamos como informações pessoais. Para ver mais informações sobre como o usuário pode
+acessar, gerenciar ou excluir informações que estejam associadas à Conta do sistema dele, visite a seção Transparência e
 escolha desta política.
 Como usamos as informações que coletamos
 Usamos as informações que coletamos em todos nossos serviços para fornecer, manter, proteger e melhorar esses
-serviços, desenvolver novos e proteger a Google e nossos usuários. Também usamos essas informações para oferecer
+serviços, desenvolver novos e proteger a sistema e nossos usuários. Também usamos essas informações para oferecer
 ao usuário um conteúdo específico, por exemplo, fornecer resultados mais relevantes de pesquisa e anúncios.
-Podemos usar o nome que o usuário fornece em seu Perfil do Google em todos os serviços que oferecemos e que exijam uma
-Conta do Google. Além disso, podemos substituir seus nomes antigos associados com sua Conta do Google de modo que o
+Podemos usar o nome que o usuário fornece em seu Perfil do sistema em todos os serviços que oferecemos e que exijam uma
+Conta do sistema. Além disso, podemos substituir seus nomes antigos associados com sua Conta do sistema de modo que o
 usuário esteja representado de maneira consistente em todos nossos serviços. Se outras pessoas já tiverem o e­mail ou
-outras informações que identifiquem o usuário, nós podemos mostrar­lhes estas informações do Perfil do Google que são
+outras informações que identifiquem o usuário, nós podemos mostrar­lhes estas informações do Perfil do sistema que são
 publicamente visíveis (como nome e foto).
-Se o usuário tem uma Conta do Google, o nome e a foto do perfil, bem como as ações realizadas em aplicativos do Google ou
-de terceiros que estejam conectados a essa Conta do Google (como marcações +1, avaliações e comentários postados),
+Se o usuário tem uma Conta do sistema, o nome e a foto do perfil, bem como as ações realizadas em aplicativos do sistema ou
+de terceiros que estejam conectados a essa Conta do sistema (como marcações +1, avaliações e comentários postados),
 podem aparecer nos nossos serviços, inclusive para exibição em anúncios e em outros contextos comerciais. Respeitamos as
-opções de compartilhamento limitado ou configurações de visibilidade que o usuário faz para a Conta do Google.
-Quando o usuário entra em contato com a Google, mantemos um registro da comunicação para ajudar a resolver qualquer
+opções de compartilhamento limitado ou configurações de visibilidade que o usuário faz para a Conta do sistema.
+Quando o usuário entra em contato com a sistema, mantemos um registro da comunicação para ajudar a resolver qualquer
 problema que ele possa estar enfrentando. Podemos usar o endereço de e­mail do usuário para informar a ele sobre nossos
 serviços, por exemplo, as próximas mudanças ou melhorias.
 Usamos as informações coletadas de cookies e de outras tecnologias, como etiquetas de pixel, para melhorar a experiência
 do usuário e a qualidade geral dos nossos serviços. Um dos produtos que usamos para fazer isso com nossos próprios
-serviços é o Google Analytics. Por exemplo, quando o usuário salva suas preferências de idioma, nossos serviços aparecem
+serviços é o sistema Analytics. Por exemplo, quando o usuário salva suas preferências de idioma, nossos serviços aparecem
 no idioma que o usuário escolhe. Quando exibimos anúncios personalizados, não associamos um identificador proveniente de
 cookies ou tecnologias semelhantes a categorias sensíveis, como aquelas baseadas em raça, religião, orientação sexual ou
 saúde.
@@ -101,25 +101,25 @@ Nossos sistemas automatizados analisam o conteúdo do usuário (incluindo e­mails)
 relevantes ao usuário, como, por exemplo, resultados de pesquisa e propaganda personalizados e detecção de spam e
 malware.
 Podemos combinar informações pessoais de um serviço com informações, inclusive informações pessoais, de outros
-serviços da Googlepara facilitar o compartilhamento de informações com pessoas que o usuário conhece, por
+serviços da sistemapara facilitar o compartilhamento de informações com pessoas que o usuário conhece, por
 exemplo. Não combinaremos informações do cookie da "DoubleClick" com informações de identificação pessoal, exceto se
 tivermos autorização do usuário (“opt­in”) para tanto.
 Solicitaremos sua autorização antes de usar informações para outros fins que não os definidos nesta Política de Privacidade.
-A Google processa informações pessoais em nossos servidores de muitos países do mundo. Podemos processar as
+A sistema processa informações pessoais em nossos servidores de muitos países do mundo. Podemos processar as
 informações pessoais do usuário em um servidor localizado fora do país em que este vive.
 Transparência e escolha
 As pessoas têm diferentes preocupações sobre privacidade. Nosso objetivo é a clareza quanto às informações que coletamos,
 de modo que o usuário possa fazer escolhas importantes sobre como elas são usadas. Por exemplo, o usuário pode:
-Analisar e atualizar os controles de atividades do Google para decidir quais tipos de dados, como vídeos assistidos no
+Analisar e atualizar os controles de atividades do sistema para decidir quais tipos de dados, como vídeos assistidos no
 YouTube ou pesquisas anteriores, o usuário deseja que sejam salvos na conta dele quando usar os serviços do
-Google.
-Rever e controlar determinados tipos de informações ligados a sua Conta do Google por meio do Google Dashboard.
-Ver e editar preferências sobre os anúncios exibidos no Google e na Web, como as categorias de interesse do usuário,
+sistema.
+Rever e controlar determinados tipos de informações ligados a sua Conta do sistema por meio do sistema Dashboard.
+Ver e editar preferências sobre os anúncios exibidos no sistema e na Web, como as categorias de interesse do usuário,
 por meio das Configurações de anúncios. O usuário também pode desativar determinados serviços de anúncios do
-Google aqui.
-Ajustar a forma como seu Perfil associado à Conta do Google é mostrado a outras pessoas.
-Controlar com quem compartilha informações por meio da sua Conta do Google.
-Receber informações associadas à sua Conta do Google de muitos de nossos serviços.
+sistema aqui.
+Ajustar a forma como seu Perfil associado à Conta do sistema é mostrado a outras pessoas.
+Controlar com quem compartilha informações por meio da sua Conta do sistema.
+Receber informações associadas à sua Conta do sistema de muitos de nossos serviços.
 O usuário pode escolher se o nome e a foto do perfil dele devem aparecer nas recomendações compartilhadas
 exibidas em anúncios.
 O usuário também pode configurar seu navegador para bloquear todos os cookies, inclusive cookies associados com nossos
@@ -128,7 +128,7 @@ nossos serviços podem não funcionar de maneira adequada se seus cookies estivere
 que não nos lembremos das preferências de idioma do usuário.
 Informações que o usuário compartilha
 Muitos de nossos serviços permitem que o usuário compartilhe informações com outras pessoas. Lembre­se de que quando
-se compartilham informações publicamente, elas podem ser indexadas por mecanismos de pesquisa, inclusive o da Google.
+se compartilham informações publicamente, elas podem ser indexadas por mecanismos de pesquisa, inclusive o da sistema.
 Nossos serviços oferecem várias opções de compartilhamento e remoção de conteúdo próprio ao usuário.
 Acesso e atualização de suas informações pessoais
 Sempre que o usuário usa nossos serviços, nosso objetivo é oferecer­lhe acesso a suas informações pessoais. Se essas
@@ -144,16 +144,16 @@ exigir esforço desproporcional. Nosso objetivo é manter nossos serviços de modo 
 acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias
 residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
 Informações que compartilhamos
-Não compartilhamos informações pessoais com empresas, organizações e indivíduos externos à Google, salvo em uma das
+Não compartilhamos informações pessoais com empresas, organizações e indivíduos externos à sistema, salvo em uma das
 seguintes circunstâncias:
 Com sua autorização
-Compartilharemos informações pessoais com empresas, organizações ou indivíduos externos à Google quando
+Compartilharemos informações pessoais com empresas, organizações ou indivíduos externos à sistema quando
 tivermos sua autorização para isso. Solicitamos autorização (“opt­in”) para compartilhamento de quaisquer informações
 sensíveis de caráter pessoal.
 Com administradores de domínios
-Se sua Conta do Google for administrada por um administrador de domínio (por exemplo, para usuários do Google
+Se sua Conta do sistema for administrada por um administrador de domínio (por exemplo, para usuários do sistema
 Apps), então seu administrador de domínio e revendedores que fornecem suporte de usuário a sua organização terão
-acesso às informações de sua Conta do Google (inclusive dados de e­mail e outros dados). Seu administrador de
+acesso às informações de sua Conta do sistema (inclusive dados de e­mail e outros dados). Seu administrador de
 domínio pode ser capaz de:
 visualizar estatísticas de sua conta, como estatísticas relacionadas a aplicativos que o usuário instala.
 alterar a senha de sua conta.
@@ -168,37 +168,37 @@ Fornecemos informações pessoais a nossas afiliadas ou outras empresas ou pessoas
 para nós, com base em nossas instruções e em conformidade com nossa Política de Privacidade e quaisquer outras
 medidas de segurança e de confidencialidade adequadas.
 Por motivos legais
-Compartilharemos informações pessoais com empresas, organizações ou indivíduos externos à Google se
+Compartilharemos informações pessoais com empresas, organizações ou indivíduos externos à sistema se
 acreditarmos, de boa­fé, que o acesso, uso, conservação ou divulgação das informações seja razoavelmente
 necessário para:
 cumprir qualquer legislação, regulamentação, processo legal ou solicitação governamental aplicável.
 cumprir Termos de Serviço aplicáveis, inclusive investigação de possíveis violações.
 detectar, impedir ou abordar de alguma outra forma fraude, questões técnicas ou de segurança.
-proteger contra dano aos direitos, a propriedade ou a segurança da Google, nossos usuários ou o público,
+proteger contra dano aos direitos, a propriedade ou a segurança da sistema, nossos usuários ou o público,
 conforme solicitado ou permitido por lei.
 Podemos compartilhar informações que não sejam pessoalmente identificáveis publicamente e com nossos parceiros, como
 sites de editores, anunciantes ou sites relacionados. Por exemplo, podemos compartilhar informações publicamente para
 mostrar tendências sobre o uso geral dos nossos serviços.
-Se a Google estiver envolvida em uma fusão, aquisição ou venda de ativos, continuaremos a garantir a confidencialidade de
+Se a sistema estiver envolvida em uma fusão, aquisição ou venda de ativos, continuaremos a garantir a confidencialidade de
 qualquer informação pessoal e avisaremos os usuários afetados antes que as informações pessoais sejam transferidas ou
 sejam submetidas a uma política de privacidade diferente.
 Segurança das informações
-Trabalhamos com afinco para proteger a Google e nossos usuários de acesso não autorizado ou alteração, divulgação ou
+Trabalhamos com afinco para proteger a sistema e nossos usuários de acesso não autorizado ou alteração, divulgação ou
 destruição não autorizada das informações que detemos. Especificamente:
 Criptografamos muitos de nossos serviços usando SSL.
-Oferecemos ao usuário uma verificação em duas etapas quando acessa sua Conta do Google e um Recurso de
-Navegação segura no Google Chrome.
+Oferecemos ao usuário uma verificação em duas etapas quando acessa sua Conta do sistema e um Recurso de
+Navegação segura no sistema Chrome.
 Analisamos nossa coleta de informações, práticas de armazenamento e processamento, inclusive medidas de
 segurança física, para proteção contra acesso não autorizado aos sistemas.
-Restringimos o acesso a informações pessoais por parte de empregados, contratados e representantes da Google que
+Restringimos o acesso a informações pessoais por parte de empregados, contratados e representantes da sistema que
 necessitam saber essas informações para processá­las para nós, e que estão sujeitos a rigorosas obrigações
 contratuais de confidencialidade, podendo ser processados ou dispensados se deixarem de cumprir tais obrigações.
 Quando esta Política de Privacidade se aplica
-Nossa Política de Privacidade se aplica a todos os serviços oferecidos pela Google Inc. e suas afiliadas, inclusive YouTube,
-serviços que a Google oferece em dispositivos Android e serviços oferecidos em outros sites (por exemplo, nossos serviços de
+Nossa Política de Privacidade se aplica a todos os serviços oferecidos pela sistema Inc. e suas afiliadas, inclusive YouTube,
+serviços que a sistema oferece em dispositivos Android e serviços oferecidos em outros sites (por exemplo, nossos serviços de
 anúncio), mas exclui serviços que tenham políticas de privacidade separadas que não incorporam esta Política de Privacidade.
 Nossa Política de Privacidade não se aplica a serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou
-sites que podem ser exibidos ao usuário nos resultados de pesquisa, sites que podem incluir serviços da Google, ou outros
+sites que podem ser exibidos ao usuário nos resultados de pesquisa, sites que podem incluir serviços da sistema, ou outros
 sites com links de nossos serviços. Nossa Política de Privacidade não abrange as práticas de informação de outras empresas
 e organizações que anunciam nossos serviços e que podem usar cookies, pixels tags e outras tecnologias para oferecer
 anúncios relevantes.
@@ -216,26 +216,26 @@ notificação por e­mail das alterações da política de privacidade). Também manter
 Privacidade arquivadas para que o usuário possa visualizá­las.
 Práticas específicas de produto
 Os seguintes avisos explicam as práticas de privacidade específicas em relação a determinados produtos e serviços da
-Google que o usuário pode utilizar:
-Google Chrome e Chrome OS
-Google Livros
+sistema que o usuário pode utilizar:
+sistema Chrome e Chrome OS
+sistema Livros
 Payments
 Fiber
-Para mais informações sobre alguns dos nossos serviços mais populares, visite o Guia de Privacidade do Produto Google.
+Para mais informações sobre alguns dos nossos serviços mais populares, visite o Guia de Privacidade do Produto sistema.
 Outros materiais úteis relacionados a privacidade e segurança
 Além disso, materiais úteis relacionados a privacidade e segurança podem ser encontrados nas páginas de políticas e
-princípios da Google, incluindo:
+princípios da sistema, incluindo:
 Informações sobre nossas tecnologias e nossos princípios, que incluem, entre outras coisas, mais informações sobre
-como a Google usa cookies.
+como a sistema usa cookies.
 tecnologias que usamos para anúncios.
 como reconhecemos padrões como rostos.
-Uma página que explica quais dados são compartilhados com a Google quando o usuário visita sites que utilizam
+Uma página que explica quais dados são compartilhados com a sistema quando o usuário visita sites que utilizam
 nossos produtos de publicidade, analíticos e sociais.
 A ferramenta Check­up de privacidade, que facilita a análise das principais configurações de privacidade do usuário.
-A Central de segurança do Google, que fornece informações sobre como ficar seguro on­line.
+A Central de segurança do sistema, que fornece informações sobre como ficar seguro on­line.
 "acesso às suas informações pessoais"
-Por exemplo, com o Painel do Google o usuário pode ver de modo rápido e fácil alguns dos dados associados à sua Conta do
-Google.
+Por exemplo, com o Painel do sistema o usuário pode ver de modo rápido e fácil alguns dos dados associados à sua Conta do
+sistema.
 Saiba mais.
 "anúncios que o usuário acha mais úteis"
 Por exemplo, se o usuário costuma visitar sites e blogs sobre jardinagem, é possível que veja anúncios relacionados a
@@ -252,53 +252,53 @@ giroscópio pode ser usado para descobrir a direção da viagem.
 Saiba mais.
 "coletar informações"
 Isso inclui informações como: dados de uso e preferências, mensagens do Gmail, perfil do G+, fotos, vídeos, histórico de
-navegação, pesquisas de mapas, documentos ou outro conteúdo hospedado na Google.
+navegação, pesquisas de mapas, documentos ou outro conteúdo hospedado na sistema.
 Saiba mais.
 "combinar informações pessoais de um serviço com informações, incluindo informações pessoais, de outros
-serviços da Google"
-Por exemplo, quando o usuário está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados
-de pesquisa da Web pública, junto com páginas, fotos e postagens do Google+ dos seus amigos. Da mesma forma, as
-pessoas que o usuário conhece ou que o seguem no Google+ podem ver suas postagens e perfil nos seus resultados de
+serviços da sistema"
+Por exemplo, quando o usuário está conectado à sua Conta do sistema e faz uma pesquisa no sistema, pode ver os resultados
+de pesquisa da Web pública, junto com páginas, fotos e postagens do sistema+ dos seus amigos. Da mesma forma, as
+pessoas que o usuário conhece ou que o seguem no sistema+ podem ver suas postagens e perfil nos seus resultados de
 pesquisa.
 Saiba mais.
 "conectar­se às pessoas"
 Por exemplo, o usuário pode receber sugestões de pessoas que talvez conheça ou com as quais queira se conectar no
-Google+, com base nas conexões que tem com pessoas em outros produtos da Google, como o Gmail. Da mesma forma, as
+sistema+, com base nas conexões que tem com pessoas em outros produtos da sistema, como o Gmail. Da mesma forma, as
 pessoas que têm uma conexão com o usuário podem ver seu perfil como sugestão.
 Saiba mais.
 "cartão de crédito"
 Embora não peçamos um cartão de crédito durante a inscrição, a confirmação da idade do usuário por meio de uma pequena
 transação de cartão de crédito é uma maneira de confirmar que ele atende aos nossos requisitos de idade, caso sua conta
 tenha sido desativada depois de ele ter digitado uma data de nascimento indicando que não tem idade suficiente para ter uma
-Conta do Google.
+Conta do sistema.
 Saiba mais.
 "desenvolver novidades"
-Por exemplo, o software de verificação ortográfica do Google foi desenvolvido por meio da análise de pesquisas anteriores nas
+Por exemplo, o software de verificação ortográfica do sistema foi desenvolvido por meio da análise de pesquisas anteriores nas
 quais os usuários corrigiram sua própria ortografia.
 Saiba mais.
 "identificadores de dispositivos"
-Os identificadores de dispositivos permitem que a Google saiba qual dispositivo exclusivo o usuário está utilizando para
+Os identificadores de dispositivos permitem que a sistema saiba qual dispositivo exclusivo o usuário está utilizando para
 acessar nossos serviços, o que pode ser usado para personalizar nossos serviços para seu dispositivo ou analisar problemas
 do dispositivo relacionados com os nossos serviços.
 Saiba mais.
 "informações específicas do dispositivo"
-Por exemplo, quando o usuário acessa o Google Play do seu computador, a Google pode usar essas informações para ajudá­
+Por exemplo, quando o usuário acessa o sistema Play do seu computador, a sistema pode usar essas informações para ajudá­
 lo a decidir em quais dispositivos ele deseja que os itens comprados estejam disponíveis para uso.
 Saiba mais.
 "melhorar sua experiência de usuário"
 Por exemplo, os cookies nos permitem analisar a forma como os usuários interagem com nossos serviços.
 Saiba mais.
 "processo legal ou solicitação governamental aplicável"
-Como outras empresas de tecnologia e comunicação, a Google recebe regularmente solicitações de governos e tribunais do
+Como outras empresas de tecnologia e comunicação, a sistema recebe regularmente solicitações de governos e tribunais do
 mundo todo para entregar dados do usuário.
 Saiba mais.
 "compartilhamento limitado ou configurações de visibilidade"
 Por exemplo, o usuário pode alterar as configurações de modo que seu nome e foto não apareçam em anúncios.
 Saiba mais.
 "vinculadas às informações sobre visitas a diversos sites"
-O Google Analytics é baseado em cookies primários. Os dados gerados pelo Google Analytics podem ser vinculados, pelo
-cliente do Google Analytics ou pela Google, por meio da tecnologia da Google, a cookies de terceiros, relacionados a visitas a
-outros websites, por exemplo quando um anunciante deseja usar os dados do Google Analytics do usuário para criar anúncios
+O sistema Analytics é baseado em cookies primários. Os dados gerados pelo sistema Analytics podem ser vinculados, pelo
+cliente do sistema Analytics ou pela sistema, por meio da tecnologia da sistema, a cookies de terceiros, relacionados a visitas a
+outros websites, por exemplo quando um anunciante deseja usar os dados do sistema Analytics do usuário para criar anúncios
 mais relevantes ou para analisar melhor seu tráfego.
 Saiba mais.
 "manter"
@@ -306,10 +306,10 @@ Por exemplo, monitoramos continuamente nossos sistemas para verificar se eles es
 detectar e corrigir erros.
 Saiba mais.
 "coletar e processar informações sobre sua localização real"
-Por exemplo, o Google Maps pode centralizar a visualização de mapas na sua localização atual.
+Por exemplo, o sistema Maps pode centralizar a visualização de mapas na sua localização atual.
 Saiba mais.
 "pode não funcionar corretamente"
-Por exemplo, usamos um cookie chamado "lbcs", que possibilita que o usuário abra muitos Documentos Google em um
+Por exemplo, usamos um cookie chamado "lbcs", que possibilita que o usuário abra muitos Documentos sistema em um
 navegador.
 Saiba mais.
 "e nossos parceiros"
@@ -317,10 +317,10 @@ Permitimos que empresas confiáveis usem cookies ou tecnologias semelhantes para 
 nossos serviços.
 Saiba mais.
 "número de telefone"
-Por exemplo, se o usuário adicionar um número de telefone como opção de recuperação, caso ele esqueça a senha, a Google
+Por exemplo, se o usuário adicionar um número de telefone como opção de recuperação, caso ele esqueça a senha, a sistema
 pode enviar uma mensagem de texto com um código para que o usuário possa redefini­la.
 Saiba mais.
-"proteger a Google e nossos usuários"
+"proteger a sistema e nossos usuários"
 Por exemplo, se o usuário estiver preocupado com o acesso não autorizado ao seu e­mail, a "Última atividade da conta" no
 Gmail exibe informações sobre a atividade recente no seu e­mail, tais como os endereços IP que acessaram o e­mail, o local
 associado, a hora e a data de acesso.
@@ -334,10 +334,10 @@ Por exemplo, o endereço IP atribuído ao dispositivo do usuário é usado para envi
 dispositivo.
 Saiba mais.
 "compartilhamento"
-Por exemplo, com o Google+, o usuário tem muitas opções de compartilhamento.
+Por exemplo, com o sistema+, o usuário tem muitas opções de compartilhamento.
 Saiba mais.
 "compartilhar de modo mais rápido e fácil com os outros"
-Por exemplo, se alguém já é um contato do usuário, a Google completará automaticamente o nome dessa pessoa caso o
+Por exemplo, se alguém já é um contato do usuário, a sistema completará automaticamente o nome dessa pessoa caso o
 usuário queira adicioná­la a uma mensagem do Gmail.
 Saiba mais.
 "as pessoas on­line mais importantes para o usuário"
@@ -345,8 +345,8 @@ Por exemplo, quando o usuário digita um endereço no campo Para, Cc ou Cco de uma
 Gmail sugere endereços da sua lista de contatos.
 Saiba mais.
 "facilitar o compartilhamento de coisas com as pessoas que o usuário conhece"
-Por exemplo, se o usuário se comunicou com alguém pelo Gmail e quer adicioná­lo a um Documento Google ou a um evento
-no Google Agenda, a Google facilita isso, ao completar automaticamente o endereço de e­mail quando o usuário começa a
+Por exemplo, se o usuário se comunicou com alguém pelo Gmail e quer adicioná­lo a um Documento sistema ou a um evento
+no sistema Agenda, a sistema facilita isso, ao completar automaticamente o endereço de e­mail quando o usuário começa a
 digitar o nome dessa pessoa.
 Saiba mais.
 "ver nossos anúncios e interagir com eles"
@@ -359,7 +359,7 @@ Quando muitas pessoas começam a pesquisar algo, isso pode fornecer informações m
 específicas naquele período.
 Saiba mais.
 "Pontos de acesso Wi­Fi e torres de celular"
-Por exemplo, a Google pode estimar a localização do dispositivo com base na localização conhecida das torres de celular
+Por exemplo, a sistema pode estimar a localização do dispositivo com base na localização conhecida das torres de celular
 próximas.
 Saiba mais.
 "resultados de pesquisa mais relevantes"
@@ -367,9 +367,9 @@ Por exemplo, podemos tornar as pesquisas mais relevantes e interessantes para o 
 itens do usuário e dos seus amigos.
 Saiba mais.
 "como remover seu conteúdo"
-Por exemplo, o usuário pode excluir seu Histórico da Web, seu blog, um Google Site de sua propriedade, seu canal do
-YouTube, seu perfil do Google+ ou sua Conta inteira do Google.
+Por exemplo, o usuário pode excluir seu Histórico da Web, seu blog, um sistema Site de sua propriedade, seu canal do
+YouTube, seu perfil do sistema+ ou sua Conta inteira do sistema.
 Saiba mais.
 "mostrar tendências"
-É possível ver algumas delas no Google Trends e YouTube Trends.
+É possível ver algumas delas no sistema Trends e YouTube Trends.
 Saiba mais.

@@ -13,7 +13,7 @@
 
     <body>
 
-        <div align="center"><h1> Cadastreeeeee aqui: </h1></div>
+        <div align="center"><h1> Cadastre aqui: </h1></div>
         
       
         <div align="center">
